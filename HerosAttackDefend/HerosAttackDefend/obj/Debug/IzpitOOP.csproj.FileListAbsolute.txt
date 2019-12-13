@@ -1,0 +1,14 @@
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\obj\Debug\IzpitOOP.csprojAssemblyReference.cache
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\obj\Debug\IzpitOOP.csproj.CoreCompileInputs.cache
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\bin\Debug\IzpitOOP.exe.config
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\bin\Debug\IzpitOOP.exe
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\bin\Debug\IzpitOOP.pdb
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\obj\Debug\IzpitOOP.exe
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\obj\Debug\IzpitOOP.pdb
+C:\Users\danit\Desktop\IzpitOOP\IzpitOOP\obj\Debug\IzpitOOP.csprojAssemblyReference.cache
+C:\Users\danit\Desktop\IzpitOOP\IzpitOOP\obj\Debug\IzpitOOP.csproj.CoreCompileInputs.cache
+C:\Users\danit\Desktop\IzpitOOP\IzpitOOP\obj\Debug\IzpitOOP.exe
+C:\Users\danit\Desktop\IzpitOOP\IzpitOOP\obj\Debug\IzpitOOP.pdb
+C:\Users\danit\Desktop\IzpitOOP\IzpitOOP\bin\Debug\IzpitOOP.exe.config
+C:\Users\danit\Desktop\IzpitOOP\IzpitOOP\bin\Debug\IzpitOOP.exe
+C:\Users\danit\Desktop\IzpitOOP\IzpitOOP\bin\Debug\IzpitOOP.pdb

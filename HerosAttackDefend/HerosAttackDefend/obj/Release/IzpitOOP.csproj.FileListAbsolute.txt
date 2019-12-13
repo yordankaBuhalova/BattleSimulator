@@ -1,0 +1,6 @@
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\bin\Release\IzpitOOP.exe.config
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\bin\Release\IzpitOOP.exe
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\bin\Release\IzpitOOP.pdb
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\obj\Release\IzpitOOP.csproj.CoreCompileInputs.cache
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\obj\Release\IzpitOOP.exe
+C:\Users\Danito\source\repos\IzpitOOP\IzpitOOP\obj\Release\IzpitOOP.pdb
